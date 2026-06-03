@@ -48,7 +48,7 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 - Employees working overtime showed higher attrition rates.
 
 ## Repository Contents
-- HR_Analytics.xlsx
+- HR-Analytics-Dashboard.xlsx
 - Dashboard Screenshots
 - README.md
 
